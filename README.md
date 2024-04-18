@@ -14,7 +14,7 @@
 
 | **App Icom** | **Judy** |
 |:---:|:---:|
-| <img width="282" alt="image" src="https://user-images.githubusercontent.com/102353787/212327895-0ddff3b5-ccc1-4757-bb67-a20ec46005c7.png">| <img src="https://i.imgur.com/n304TQO.jpg" width="300" height="300" />|
+| <img width="282" alt="image" src="https://user-images.githubusercontent.com/102353787/212327895-0ddff3b5-ccc1-4757-bb67-a20ec46005c7.png">|<img src = "https://github.com/Judy-999/ios-BoxOffice/assets/102353787/ebd9c08c-c5ac-4b51-8dd5-795a4282e31a" width="300" height="300"> |
 | |[@Judy-999](https://github.com/Judy-999)|
 
 ### ❗️ 로그인 기능을 위한 SecretKey 다운로드 
